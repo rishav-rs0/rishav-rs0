@@ -37,7 +37,7 @@ Small projects , simple tools , and fun experiments live here .
 
 ---
 
-### ☀️ Good Vibes Only
+### ☀️ Good Things Only
 Open to ideas , collaborations , and learning from everyone .  
 Always experimenting , always improving , always staying curious .
 
