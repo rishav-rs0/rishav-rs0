@@ -1,10 +1,50 @@
-- 👋 Hi, I’m Rishav Sharma
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on everywhere
-- 📫 How to reach me - if you know me well you can
-- 😄 Pronouns: kya fark padta hai aajkal to equality chal rahi hai na
-- ⚡ Fun fact: jao jaake fir standup comedies dekho
+### ✨ Welcome
+
+A space filled with learning , experiments , creativity , and progress .  
+Trying to get a little better every day — one commit at a time .
+
+---
+
+### 📚 Currently Learning :
+- Productivity systems  
+- Creative thinking  
+- Digital skills that help in everyday life  
+
+---
+
+### 🎥 Content & Creativity
+Love exploring :
+- Editing  
+- Visual storytelling  
+- Sharing ideas  
+- Documenting the journey  
+
+Small projects , simple tools , and fun experiments live here .
+
+---
+
+### 🌱 Personal Growth
+- “Consistent small steps beat random big efforts .”  
+- “Focus on progress , not perfection .”   
+
+---
+
+### 🎯 Goals
+- Build helpful habits  
+- Learn something new every month    
+- Become more organized and mindful  
+- Keep improving — slowly but surely  
+
+---
+
+### ☀️ Good Vibes Only
+Open to ideas , collaborations , and learning from everyone .  
+Always experimenting , always improving , always staying curious .
+
+---
+
+### - 📬 Get in touch
+Available for collaboration , tools discussions , automation ideas , system design conversations , and experimental builds , productivity , creativity , or anything interesting .
 
 <!---
 rishav-rs0/rishav-rs0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
